@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body{
+    poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+}
+
 main .build{
     background-image: url(../images/Rectangle\ 1.png);
     background-size: 100% 100%;

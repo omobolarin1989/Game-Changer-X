@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body{
+    poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+}
+
 table{
     background-image: url(../images/Rectangle\ 1.png);
     height: 100vh;
